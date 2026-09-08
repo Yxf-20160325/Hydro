@@ -66,6 +66,5 @@
     },
     "resolutions": {
         "mongodb": "^7.0.0"
-        
     }
 }
