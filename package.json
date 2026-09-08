@@ -45,8 +45,8 @@
         "cross-env": "^10.1.0",
         "cross-spawn": "^7.0.6",
         "esbuild": "0.25.2",
-        "eslint": "^10.9.1",
-        "eslint-import-resolver-typescript": "^4.4.5",
+        "eslint": "^9.23.0",
+        "eslint-plugin-import": "^2.32.0",
         "eslint-import-resolver-webpack": "^0.13.11",
         "fs-extra": "^11.4.0",
         "globals": "^17.11.0",
@@ -65,7 +65,7 @@
         "wtfnode": "^0.10.1"
     },
     "resolutions": {
-        "mongodb": "^7.0.0",
-        "@types/express-serve-static-core": "patch:@types/express-serve-static-core@npm%3A4.19.6#~/.yarn/patches/@types-express-serve-static-core-npm-4.19.6-cc0017aaf4.patch"
+        "mongodb": "^7.0.0"
+        
     }
 }
